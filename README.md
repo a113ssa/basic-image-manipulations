@@ -1,0 +1,1 @@
+[Basic image manipulations](basic_image_manipulations.ipynb)
