@@ -6,3 +6,4 @@
 [Basic image manipulations Part 2](basic_image_manipulations_part2.ipynb)
 - convolution filters comparison
 - image rescaling
+- erosion/dilation
