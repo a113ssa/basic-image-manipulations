@@ -66,3 +66,7 @@ def plot_histogram(regular_average, weighted_average):
 
 def threshold_image(img, threshold):
     return (img > threshold).astype('uint8') * 255
+
+
+def cut_image_left_upper_quater(image):
+  return image[:int(image.shape[0] / 2), :int(image.shape[1] / 2), :]
